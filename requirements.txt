@@ -6,3 +6,7 @@ plotly
 torch
 tqdm
 scikit-learn
+PyYAML
+pyarrow
+openpyxl
+pytorch-tcn
